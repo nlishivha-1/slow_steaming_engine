@@ -1,0 +1,27 @@
+[project]
+name = "slow_steaming_optimizer"
+version = "0.1.0"
+description = "A Streamlit app for optimizing slow steaming in shipping"
+requires-python = ">=3.11"
+dependencies = [
+    "folium>=0.19.5",
+    "numpy>=2.2.5",
+    "plotly>=6.0.1",
+    "scipy>=1.15.2",
+    "streamlit-folium>=0.25.0",
+    "streamlit>=1.44.1",
+    "pandas>=2.2.3",
+]
+
+[tool.pytest]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_functions = "test_*"
+python_classes = "Test*"
+
+[tool.pytest.ini_options]
+markers = [
+    "models: tests for model classes",
+    "utils: tests for utility functions",
+    "pages: tests for Streamlit pages"
+]

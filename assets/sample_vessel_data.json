@@ -1,0 +1,102 @@
+{
+  "vessels": [
+    {
+      "name": "Maersk Elba",
+      "type": "Container Ship",
+      "length": 366,
+      "beam": 48.2,
+      "draft": 15.5,
+      "deadweight": 149000,
+      "engine_type": "MAN B&W 12K98ME-C",
+      "max_speed": 25.5,
+      "max_power": 72000,
+      "design_speed": 21.5,
+      "design_consumption": 220,
+      "year_built": 2011
+    },
+    {
+      "name": "Nordic Orion",
+      "type": "Bulk Carrier",
+      "length": 225,
+      "beam": 32.3,
+      "draft": 13.8,
+      "deadweight": 75000,
+      "engine_type": "MAN B&W 6S60MC-C",
+      "max_speed": 16.5,
+      "max_power": 12000,
+      "design_speed": 14,
+      "design_consumption": 40,
+      "year_built": 2013
+    },
+    {
+      "name": "TI Europe",
+      "type": "Oil Tanker",
+      "length": 380,
+      "beam": 68,
+      "draft": 24.5,
+      "deadweight": 440000,
+      "engine_type": "Wärtsilä-Sulzer 9RTA84T-D",
+      "max_speed": 16.5,
+      "max_power": 29400,
+      "design_speed": 14.5,
+      "design_consumption": 100,
+      "year_built": 2002
+    },
+    {
+      "name": "CMA CGM Antoine de Saint Exupery",
+      "type": "Container Ship",
+      "length": 400,
+      "beam": 59,
+      "draft": 16.0,
+      "deadweight": 205700,
+      "engine_type": "Wärtsilä RT-flex96C",
+      "max_speed": 26,
+      "max_power": 85000,
+      "design_speed": 22.5,
+      "design_consumption": 270,
+      "year_built": 2018
+    },
+    {
+      "name": "Berge Stahl",
+      "type": "Bulk Carrier",
+      "length": 343,
+      "beam": 63.5,
+      "draft": 23.0,
+      "deadweight": 364000,
+      "engine_type": "MAN B&W 7L80MC",
+      "max_speed": 14.5,
+      "max_power": 27600,
+      "design_speed": 13.5,
+      "design_consumption": 90,
+      "year_built": 1986
+    },
+    {
+      "name": "Höegh Trapper",
+      "type": "Car Carrier",
+      "length": 200,
+      "beam": 36.5,
+      "draft": 10.0,
+      "deadweight": 22500,
+      "engine_type": "MAN B&W 7S60ME-C8",
+      "max_speed": 20.5,
+      "max_power": 14500,
+      "design_speed": 19.0,
+      "design_consumption": 60,
+      "year_built": 2016
+    },
+    {
+      "name": "Q-Max Mozah",
+      "type": "LNG Carrier",
+      "length": 345,
+      "beam": 55,
+      "draft": 12.0,
+      "deadweight": 128900,
+      "engine_type": "Dual-Fuel Diesel Electric",
+      "max_speed": 21.5,
+      "max_power": 42000,
+      "design_speed": 19.5,
+      "design_consumption": 168,
+      "year_built": 2008
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "routes": [
+    {
+      "name": "Shanghai to Rotterdam",
+      "distance": 10582,
+      "waypoints": [
+        {"name": "Shanghai", "lat": 31.230, "lon": 121.473},
+        {"name": "East China Sea", "lat": 28.500, "lon": 125.500},
+        {"name": "South China Sea", "lat": 16.000, "lon": 114.500},
+        {"name": "Singapore Strait", "lat": 1.264, "lon": 103.825},
+        {"name": "Malacca Strait", "lat": 3.500, "lon": 100.200},
+        {"name": "Bay of Bengal", "lat": 6.927, "lon": 85.861},
+        {"name": "Arabian Sea", "lat": 14.500, "lon": 65.000},
+        {"name": "Gulf of Aden", "lat": 12.700, "lon": 45.300},
+        {"name": "Red Sea", "lat": 20.000, "lon": 38.500},
+        {"name": "Suez Canal", "lat": 30.028, "lon": 32.552},
+        {"name": "Mediterranean", "lat": 33.800, "lon": 20.000},
+        {"name": "Gibraltar", "lat": 36.144, "lon": -5.353},
+        {"name": "Bay of Biscay", "lat": 45.000, "lon": -8.000},
+        {"name": "English Channel", "lat": 50.127, "lon": -1.805},
+        {"name": "Rotterdam", "lat": 51.949, "lon": 4.138}
+      ]
+    },
+    {
+      "name": "Rotterdam to New York",
+      "distance": 3326,
+      "waypoints": [
+        {"name": "Rotterdam", "lat": 51.949, "lon": 4.138},
+        {"name": "English Channel", "lat": 50.127, "lon": -1.805},
+        {"name": "Celtic Sea", "lat": 49.000, "lon": -8.000},
+        {"name": "North Atlantic", "lat": 48.000, "lon": -15.000},
+        {"name": "Mid-Atlantic", "lat": 47.000, "lon": -30.000},
+        {"name": "West Atlantic", "lat": 44.000, "lon": -50.000},
+        {"name": "Nantucket Shoals", "lat": 41.000, "lon": -69.000},
+        {"name": "New York Approach", "lat": 40.400, "lon": -73.700},
+        {"name": "New York", "lat": 40.713, "lon": -74.006}
+      ]
+    },
+    {
+      "name": "Singapore to Sydney",
+      "distance": 4456,
+      "waypoints": [
+        {"name": "Singapore", "lat": 1.264, "lon": 103.825},
+        {"name": "Karimata Strait", "lat": -1.500, "lon": 107.500},
+        {"name": "Java Sea", "lat": -5.000, "lon": 109.000},
+        {"name": "Sunda Strait", "lat": -6.030, "lon": 105.896},
+        {"name": "Indian Ocean", "lat": -12.000, "lon": 108.000},
+        {"name": "Timor Sea", "lat": -14.000, "lon": 120.000},
+        {"name": "Arafura Sea", "lat": -10.000, "lon": 135.000},
+        {"name": "Torres Strait", "lat": -10.300, "lon": 142.500},
+        {"name": "Coral Sea", "lat": -18.000, "lon": 148.000},
+        {"name": "Tasman Sea", "lat": -30.000, "lon": 153.000},
+        {"name": "Sydney", "lat": -33.865, "lon": 151.209}
+      ]
+    },
+    {
+      "name": "Houston to Santos",
+      "distance": 5622,
+      "waypoints": [
+        {"name": "Houston", "lat": 29.760, "lon": -95.370},
+        {"name": "Galveston Bay", "lat": 29.300, "lon": -94.800},
+        {"name": "Gulf of Mexico", "lat": 27.000, "lon": -92.000},
+        {"name": "Yucatan Channel", "lat": 22.000, "lon": -85.000},
+        {"name": "Caribbean Sea", "lat": 18.000, "lon": -80.000},
+        {"name": "Windward Passage", "lat": 15.000, "lon": -75.000},
+        {"name": "South Caribbean", "lat": 12.000, "lon": -68.000},
+        {"name": "North Atlantic", "lat": 8.000, "lon": -58.000},
+        {"name": "Equatorial Atlantic", "lat": 0.000, "lon": -48.000},
+        {"name": "Brazilian Coast", "lat": -10.000, "lon": -36.000},
+        {"name": "South Brazil", "lat": -20.000, "lon": -40.000},
+        {"name": "Santos Approach", "lat": -24.000, "lon": -45.000},
+        {"name": "Santos", "lat": -23.968, "lon": -46.329}
+      ]
+    },
+    {
+      "name": "Long Beach to Tokyo",
+      "distance": 4839,
+      "waypoints": [
+        {"name": "Long Beach", "lat": 33.770, "lon": -118.194},
+        {"name": "Santa Catalina", "lat": 33.400, "lon": -119.000},
+        {"name": "California Current", "lat": 34.500, "lon": -125.000},
+        {"name": "North Pacific", "lat": 35.000, "lon": -140.000},
+        {"name": "Central Pacific", "lat": 35.500, "lon": -160.000},
+        {"name": "International Date Line", "lat": 35.500, "lon": 180.000},
+        {"name": "Western Pacific", "lat": 35.000, "lon": 160.000},
+        {"name": "Japan Current", "lat": 34.000, "lon": 150.000},
+        {"name": "Japan Approach", "lat": 34.500, "lon": 142.000},
+        {"name": "Tokyo Bay", "lat": 35.000, "lon": 140.000},
+        {"name": "Tokyo", "lat": 35.689, "lon": 139.692}
+      ]
+    },
+    {
+      "name": "Dubai to Mumbai",
+      "distance": 1180,
+      "waypoints": [
+        {"name": "Dubai", "lat": 25.204, "lon": 55.270},
+        {"name": "Strait of Hormuz", "lat": 25.800, "lon": 56.700},
+        {"name": "Gulf of Oman", "lat": 24.000, "lon": 59.000},
+        {"name": "Omani Coast", "lat": 22.500, "lon": 61.500},
+        {"name": "Arabian Sea", "lat": 21.000, "lon": 65.000},
+        {"name": "Indian Coast", "lat": 19.500, "lon": 70.000},
+        {"name": "Mumbai", "lat": 19.076, "lon": 72.877}
+      ]
+    },
+    {
+      "name": "Busan to Vancouver",
+      "distance": 4525,
+      "waypoints": [
+        {"name": "Busan", "lat": 35.180, "lon": 129.076},
+        {"name": "Korea Strait", "lat": 34.000, "lon": 129.500},
+        {"name": "East China Sea", "lat": 30.000, "lon": 130.000},
+        {"name": "Ryukyu Islands", "lat": 28.000, "lon": 132.000},
+        {"name": "Northwest Pacific", "lat": 32.000, "lon": 140.000},
+        {"name": "Central Pacific", "lat": 38.000, "lon": 160.000},
+        {"name": "North Pacific", "lat": 42.000, "lon": 180.000},
+        {"name": "Gulf of Alaska Approach", "lat": 45.000, "lon": -150.000},
+        {"name": "Queen Charlotte Sound", "lat": 47.000, "lon": -130.000},
+        {"name": "Strait of Georgia", "lat": 49.000, "lon": -125.000},
+        {"name": "Vancouver", "lat": 49.282, "lon": -123.120}
+      ]
+    }
+  ]
+}
